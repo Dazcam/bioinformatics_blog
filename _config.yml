@@ -37,7 +37,7 @@ titles_from_headings:
 
 defaults:
   - scope:
-      path: "bioinformatics_blog/"
+      path: "Dazcam/bioinformatics_blog/"
       type: post
     values:
       tags: Other
