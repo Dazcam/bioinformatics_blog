@@ -5,6 +5,7 @@ description: "Dazcam bioinformatics blog." # This will show up in places like tw
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "camerond@cardiff.ac.uk"
+production_url : https://Dazcam.github.io/bioinformatics_blog
 #twitter_username: "twitteruser"
 github_username: "Dazcam"
 #linkedin_username: "linkedinuser"
