@@ -1,4 +1,4 @@
-# Accessing ensembl database using SQL
+## Accessing ensembl database using SQL
 
 Some basic commands to extract gene and SNP information from Ensembl databases using SQL.
 
